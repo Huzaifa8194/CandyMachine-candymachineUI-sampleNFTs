@@ -1,0 +1,98 @@
+{
+  "program": {
+    "candyMachine": "4VT1kUL5rLtR8TZNHwQFhFpgAKEqKLBGagFoDREvaub7",
+    "candyGuard": "BgrqyJeNbbr1eDBZnj4PwdS2crkTvmJPuTtMD2qv8Ci3",
+    "candyMachineCreator": "99jdge6kc5jAGKAptWD6irt2ke8e2Gxxxp8P7fXBoP8J",
+    "collectionMint": "7KBmpCoMUVHZKUK1RQ3eLHJmdjMdConWtUDwoLPoKWfu"
+  },
+  "items": {
+    "-1": {
+      "name": "Candy Collection",
+      "image_hash": "da63516f9b1aa2e878f174ee49af381100bd092b394830264b893d4e809161ed",
+      "image_link": "https://arweave.net/PchwqPFR-PbRWfblKJfaeQF2FyQ1ExvU4sWM7109xAQ?ext=png",
+      "metadata_hash": "4d207fd133c18a9a31de210dde2135bb092d73f163cb39384268664bdd179ff1",
+      "metadata_link": "https://arweave.net/KsBBncntJBjwdR5kcSbVccceC32Jbm-k7CO4Z7HqGYI",
+      "onChain": true
+    },
+    "0": {
+      "name": "Candy #1",
+      "image_hash": "f51250c873e750d150858f73fce10adb832e9e2e26e17b2afa1ee876c4e80c2a",
+      "image_link": "https://arweave.net/fQMeFODJTSgx3gVJXZuJK0XorKVSLWvwgIIdPXLV89c?ext=png",
+      "metadata_hash": "d005b3d935295e14b25812917eb8f975afc1dc665b34ad0c91a05cf6fe4bc146",
+      "metadata_link": "https://arweave.net/nv_G-3I1fSrsXHPUkG5DoxY82m0sHp_SKx0U33Nm4Ss",
+      "onChain": true
+    },
+    "1": {
+      "name": "Candy #2",
+      "image_hash": "45cb36af4582f5e4156322c1f33e4600fe5fa780bec4646c351a4fca14001d0f",
+      "image_link": "https://arweave.net/x74CqGTKWWCna8Ii5vYmbR1pyVoJCRAWb9dFgGgFaUI?ext=png",
+      "metadata_hash": "5b1cd7e7756b0e418f83ed7a43031fe641f5985229bb6855a13fea14f61a3234",
+      "metadata_link": "https://arweave.net/xZAJUD-uqHOACr1ha0okMfwWP1RxGvUzMjk8PE8MIMs",
+      "onChain": true
+    },
+    "2": {
+      "name": "Candy #2",
+      "image_hash": "ad6453d65404d75c2b2725f89f0c659681ef30232e91f8d522b685f8d8000022",
+      "image_link": "https://arweave.net/Dq-Cz9VyXHVrDs3OWiYt5VyFkJVraimwJtuIcuoqLmo?ext=png",
+      "metadata_hash": "329f017dbcaed372454dce2b22fe27c9bba0501a12bf7ece2c4e5411a6a07d94",
+      "metadata_link": "https://arweave.net/7ck48as1hXUOCgQpSayfipYawv3jO7T7IgJaEqXTdkY",
+      "onChain": true
+    },
+    "3": {
+      "name": "Candy #3",
+      "image_hash": "28510ef3df2b465e9131f029f5110783d2eb1266c8eb8ba8ac3455652724944b",
+      "image_link": "https://arweave.net/sEEY_Wm_wK42ZWaSANhzhLcu_Vp4FOLUVhxSr2d5wu8?ext=png",
+      "metadata_hash": "a13b89c76717c4afffd2fcbf4f7cc5827adbe9bd7dc5aa6943b66a447554ef3b",
+      "metadata_link": "https://arweave.net/9RZkNPMHKgnUb7MvhascV7iE_jbQawO5JKOYWMy8iYk",
+      "onChain": true
+    },
+    "4": {
+      "name": "Candy #4",
+      "image_hash": "5564bf619622792f21fd3f0528c891bb09069dd73a443265d70c4cb37076429b",
+      "image_link": "https://arweave.net/fJkqT1Qj4iLwW1uFJ3T8sY3krh1E6Xy4Q4PFVmrz8dI?ext=png",
+      "metadata_hash": "a20a404ff5ff66cf2e2f3b083035b3ceb7520837a9ce9fa9c77354c99c5ba8ff",
+      "metadata_link": "https://arweave.net/8KT8Exoi7W0J27lvfJ_lyevjZArATNA7ZvYHNkqsyi4",
+      "onChain": true
+    },
+    "5": {
+      "name": "Candy #5",
+      "image_hash": "230bb8710285ff6156b55bef8ef3723a4beaa4a0089a4fff0101d946e5c641c6",
+      "image_link": "https://arweave.net/TX5v7KyH5P6wHAy97pVfU8225kzp90FND7fiTUL7RZ8?ext=png",
+      "metadata_hash": "1f315ee2fe5995ea926a82d59499cc0619eeb0dd6e0cb7f6efdb54c05ccf5578",
+      "metadata_link": "https://arweave.net/IBrI9pDbmqfG8vkamNng79U9FkC7z8N7E22XnaZiV5w",
+      "onChain": true
+    },
+    "6": {
+      "name": "Candy #6",
+      "image_hash": "f377a752e41946b913a1aafc3622cdc9b7fc9bcd0d1d7eb75d088ed731abe3cd",
+      "image_link": "https://arweave.net/ZQZZqNoWm4DwqEcb7KwoOIW9zuMTP4hKcdgLqeYxRzM?ext=png",
+      "metadata_hash": "7bebbf0f72940ee38506e8d597792bfe0729ea72abe5adc5719b6a026e567570",
+      "metadata_link": "https://arweave.net/ug9UAdosDBMKUVZklsOOzDc5VATpxJz691vmsm_CRvE",
+      "onChain": true
+    },
+    "7": {
+      "name": "Candy #7",
+      "image_hash": "fd4971d6be5593eb36bcd4c7c779b0f121f6c67d580a61a5f64bf483f6f16e5d",
+      "image_link": "https://arweave.net/J09fbvZm2_2cJ3IFS263HvzTplSLiJPJf82wVpL_Pjk?ext=png",
+      "metadata_hash": "d7a4d1907ad937111b4303b4334e84b8728a42f7779bbd87da042cd9aace1ced",
+      "metadata_link": "https://arweave.net/aHkjgxisQcprTq2oHMnGKSOenTPq7WBjP6vGrQzxYlo",
+      "onChain": true
+    },
+    "8": {
+      "name": "Candy #8",
+      "image_hash": "2653fd6191c373601e0ebccf0516df35657354eaa331350b66b65c9940342a23",
+      "image_link": "https://arweave.net/fr6n6jtHuEYIGcKekcGV9TwyVAIjiZmSFSntUkghx2w?ext=png",
+      "metadata_hash": "aa3e4b64d50ada1340175e6ed6ac7031f5af8d4c71e959055f6d130ea600cc21",
+      "metadata_link": "https://arweave.net/N2c65Db7SFyyy3lJd-doFdv3ZvSUYM4Uwjt08D9QqkE",
+      "onChain": true
+    },
+    "9": {
+      "name": "Candy #9",
+      "image_hash": "da63516f9b1aa2e878f174ee49af381100bd092b394830264b893d4e809161ed",
+      "image_link": "https://arweave.net/-1gflCdTKE1sSEkNlJjH6gz6iLKdfLpPaXP5H8IXR4w?ext=png",
+      "metadata_hash": "ddb8437a1822e5a08dec2363d36faf530910fe371a011940916ca602e8c07df1",
+      "metadata_link": "https://arweave.net/4QqtgPYrMyeVaeArWsHeXK7PJM-Eu_8phX7B3aacRFg",
+      "onChain": true
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Candy #9",
+    "symbol": "NB",
+   
+    "description": "collection type shit",
+     "image": "9.png",
+    "attributes": 
+    [
+        {
+            "trait_type": "Number",
+            "value": "0"
+        }
+    ],
+    "properties":{
+        "files":[
+            {
+                "uri": "9.png",
+                "type": "image/png"
+            }
+        ]
+    }
+
+}
